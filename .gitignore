@@ -1,0 +1,6 @@
+.DS_Store
+Pods
+Podfile.lock
+BooksList.xcodeproj/project.xcworkspace
+BooksList.xcodeproj/xcuserdata
+BooksList.xcworkspace/xcuserdata
